@@ -1,3 +1,3 @@
-module github.com/jgib/goUtils
+module goUtils
 
 go 1.23.5
